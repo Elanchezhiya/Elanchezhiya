@@ -1,120 +1,95 @@
-<h1 align="center">Hi 👋, I'm Elanchezhiyan S</h1>
-<h3 align="center">Backend Developer | .NET | Java | Spring Boot | REST APIs</h3>
+# Hi, I'm Elanchezhiyan S 👋
+
+### Software Developer | .NET Full Stack | AWS & DevOps
+
+I’m a software developer with **3 years of professional experience** building and supporting enterprise web applications, REST APIs, and data-driven solutions. I’m now expanding my engineering toolkit into **AWS Cloud and DevOps**, with hands-on practice in containerization, CI/CD, Kubernetes, and monitoring.
+
+- 💼 **Professional experience:** Syncfusion Software Pvt. Ltd., working on the Bold BI product
+- 🧩 **Development:** C#, ASP.NET Core, Web API, Java, Spring Boot, JavaScript, React (beginner)
+- ☁️ **Cloud & DevOps:** AWS, EC2, Linux, Docker, Kubernetes, Jenkins
+- 📊 **Monitoring:** Prometheus, Node Exporter, Grafana
+- 🗄️ **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
+- 🎯 **Currently focused on:** Building, containerizing, deploying, and monitoring applications with AWS and DevOps practices
+- 📍 Tamil Nadu, India
+
+---
+
+## 🛠️ Skills & Technologies
+
+| Area | Technologies |
+|---|---|
+| Languages | C#, Java, JavaScript, Python, SQL |
+| Backend | .NET, ASP.NET Core, ASP.NET Web API, Spring Boot, REST APIs, JWT |
+| Frontend | HTML5, CSS3, Bootstrap, React |
+| Databases | SQL Server, PostgreSQL, MySQL, MongoDB |
+| Cloud | AWS, Amazon EC2 |
+| DevOps & Containers | Linux, Git, GitHub, Docker, Docker Compose, Kubernetes, Jenkins |
+| Monitoring | Prometheus, Node Exporter, Grafana |
+| Tools | Visual Studio, VS Code, IntelliJ IDEA, Postman, Swagger |
+
+---
+
+## 💼 Professional Experience
+
+### Software Developer | Syncfusion Software Pvt. Ltd.
+*November 2021 – September 2024*
+
+- Worked on **Bold BI**, an enterprise business intelligence and analytics product.
+- Contributed to the Datasource REST module and supported REST-based data connectivity.
+- Delivered proof-of-concepts, custom builds, patches, and custom widgets for client requirements.
+- Troubleshot and resolved 100+ customer issues across application and server-side components.
+- Supported production releases, issue replication, and SLA-driven delivery.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 CineMatch – Online Movie Recommendation
+A movie and series discovery application inspired by popular entertainment catalogues. The project is also used to practise cloud deployment and DevOps workflows.
+
+- Application development with separate frontend and backend components.
+- Containerized services using Docker and Docker Compose.
+- Deployment and orchestration practice with Kubernetes.
+- CI/CD workflow practice using Jenkins.
+- Designed as a hands-on AWS EC2 and Linux deployment project.
+
+**Repository:** [Online Movie Recommendation](https://github.com/Elanchezhiya/Online-Movie-Recommendation)
+
+### ☁️ AWS & DevOps Practice
+Hands-on exercises and project work covering:
+
+- Provisioning and working with AWS EC2 instances.
+- Linux server administration and application deployment.
+- Docker images, containers, and Docker Compose.
+- Kubernetes deployments, services, and troubleshooting.
+- Jenkins pipeline automation.
+- Metrics and monitoring with Prometheus, Node Exporter, and Grafana.
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  Passionate backend developer with 3 years of experience building scalable web applications, RESTful APIs, and database-driven systems.
+  <img src="https://github-readme-stats.vercel.app/api?username=Elanchezhiya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Elanchezhiya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elanchezhiya&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🤝 Connect
 
-- 💼 Formerly worked at **Syncfusion Software Private Limited**
-- 💻 Strong in **ASP.NET Core, C#, Java, Spring Boot**
-- 🛠️ Experienced in building **REST APIs, Authentication systems, CRUD apps, and business applications**
-- 🌱 Currently learning **React.js, Thymeleaf, and Microservices Architecture**
-- 🎯 Actively looking for opportunities in **Startups and MNCs**
-- 📍 Based in **Tamil Nadu, India**
+- **GitHub:** [@Elanchezhiya](https://github.com/Elanchezhiya)
+- **LinkedIn:** [Elanchezhiyan S](https://www.linkedin.com/in/elanchezhiyan-s-b25365191/)
+- **Email:** [elanchezhiyan954@gmail.com](mailto:elanchezhiyan954@gmail.com)
+- **Resume:** [View my resume](https://drive.google.com/file/d/1E8j3zo28CxBiO-DLRyDWJ5dQxHUmsyaP/view?usp=sharing)
 
 ---
 
-## 🧠 Tech Stack
-
-### Backend
-- ASP.NET Core
-- C#
-- Java
-- Spring Boot
-- REST APIs
-- JWT Authentication
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- React.js
-- Thymeleaf
-
-### Database
-- SQL Server
-- MySQL
-- MongoDB
-- PostgreSQL
-
-### Tools & Platforms
-- Git & GitHub
-- Postman
-- Swagger
-- Visual Studio
-- VS Code
-- IntelliJ IDEA
-
----
-
-## 📌 Featured Projects
-
-### 🚌 Online Bus Ticket Booking System
-A full-stack booking system with:
-- User authentication using JWT
-- Bus search by route and date
-- Seat selection and booking flow
-- Razorpay mock payment integration
-- PDF ticket generation
-- Admin dashboard for bus, booking, and passenger management
-
-**Tech Used:** Spring Boot, React, MySQL, JWT, Razorpay Mock
-
----
-
-### 💊 Patient Medicine & Appointment System
-A healthcare management application with:
-- Appointment scheduling APIs
-- Medication CRUD management
-- Doctor and patient modules
-- JWT-based authentication
-- Swagger API documentation
-
-**Tech Used:** Spring Boot, MySQL/MongoDB, JWT, Swagger, Thymeleaf
-
----
-
-### 🧾 Portfolio Website
-A personal developer portfolio showcasing:
-- Technical skills
-- Work experience
-- Projects
-- Resume and contact details
-
-**Tech Used:** HTML, CSS, JavaScript / React
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elanchezhiya&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elanchezhiya&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elanchezhiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-- 📧 Email: **elanchezhiyan954@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/elanchezhiyan-s-b25365191**
-- 💻 GitHub: **https://github.com/elanchezhiya**
-- 📄 Resume: **https://drive.google.com/file/d/1E8j3zo28CxBiO-DLRyDWJ5dQxHUmsyaP/view?usp=sharing**
-
----
-
-## 💬 Fun Fact
-
-I enjoy building backend systems that solve real-world problems and make applications reliable, secure, and scalable 🚀
+*I enjoy solving engineering problems, learning new technologies, and turning ideas into reliable applications. Always learning, building, and improving. 🚀*
